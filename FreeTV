@@ -23,11 +23,11 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/n7m5vWP/gtv.png", GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xFs6k31/SCTV.png" tvg-id=".SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="INDONESIA", SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFs6k31/SCTV.png" tvg-id="SCTV.id" tvg-country="ID" tvg-language="Indonesian" group-title="INDONESIA", SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fqv4pDb/Indosiar.png" tvg-id=".SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="INDONESIA", INDOSIAR
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqv4pDb/Indosiar.png" tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" group-title="INDONESIA", INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGNNgRp/trastv.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w687206958_b744100_sleng.m3u8
