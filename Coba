@@ -1,0 +1,4 @@
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677545499&etime=1677545499&encoded=02e73e9ca74bdc3e86b85
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", TES
+https://cdn09jtedge.indihometv.com/atemedvr/1677541899/0/ARIRANG_AT/ARIRANG_AT.mpd
