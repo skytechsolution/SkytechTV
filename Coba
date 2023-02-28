@@ -2,3 +2,7 @@
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677545499&etime=1677545499&encoded=02e73e9ca74bdc3e86b85
 #EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", TES
 https://cdn09jtedge.indihometv.com/atemedvr/1677541899/0/ARIRANG_AT/ARIRANG_AT.mpd
+
+
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.postimg.cc/hGcg87rw/elshintatv.png", ELSHINTA TV
+https://cdn11jtedge.indihometv.com/joss/130/indikids/chunklist_w2056328325_b1004100_sleng.m3u8?enc=t75TsFOjZa_Oelf0T9tERw&uid=&exp=1677555112
