@@ -100,6 +100,7 @@ https://cdn14jtedge.indihometv.com/joss/130/indikids/chunklist_w1822934480_b1004
 https://cdn14jtedge.indihometv.com/joss/194/cartoonnetwork/chunklist_w433377628_b1004100_sleng.m3u8?enc=N2K82O93NC2FfxhC6EtEfg&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxMWEyNGU2ZC1hMmE0LTI3N2UxLTE1MjdiNDY2NGZiYyIsImVtYWlsIjoiYXN1c2Ryb2lkZXJzQGdtYWlsLmNvbSIsImxvZ2luU3RhdHVzIjp0cnVlLCJzdWJzY3JpYmVyX2lkIjoiMjMyMTcwMiIsImZ1bGxuYW1lIjoiRWtvIFNhcHV0cmEiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4TURNdU1UWTBMakUzTlM0eUxUWXpSa1EwUmpnMFFqUkZOVFk9IiwiaWQiOjc5OTcwNiwiZXhwIjoxNjc4MTUxNTE5LCJpYXQiOjE2Nzc1NDY3MTksImlzcyI6IlVzZWVUVkdPIn0.MlBUNHDKjt79mVzsYJiyHPiwZsg954x5NgdddsRUCDcK3HkZ4uZ8ggI6OWxLhGpJbDKIC4LJ3vG3eioVdur03yHoVdx8SIH8suHYUM7Z2hI_TR07BJU2_uP5VwijahvSqlqWhWNZWRMUo-lCPdMHxr-q7Vn4rvX3nHiU54BqdL6Sui65p-gdrtblKEsm1l_RYv-HenJyWOOf9wSQyVZksGslQ4pkbjlYhl9ZHz2buymGGKjKF7jsqhLzsFzT-cCDrkzdEt6c3CzkK1vxHoiPaDn5N_D9QdzGsU6HHKJf4nYOKvbAOyXqiFIN7hUsV5OhzpM5rTrm3AJOENvJoAw33vVaQJmrPKRoe3xu2azOkdoJ8um02FH3Kr4qLcOovzIUbEEBaigxIy39aiSzvuL17jt1zQualsq4lBhWeHoAo8CXJrCdtAYY0GK1o59DNo_TOquFBunXcpcFBJDVuA1Dd1oaOPMl0QZxPKLCkw88W-kC4NEsjq3JrJUB-gP3r1MN_gT0wH4tYR9aADXRYnduczqt9iHfKE1zF1TbVqSJv1nUIXsIcXg4xfy4Y64m3uRj-lVxntw8b56Z7Sz59kx1hI61MdcfgSMBAPv7ufw7dsTOY7VmuRkRwua7ldSfUhnVDuqD_yK4lsxqC7CltMSs4iKF9MMX_m9GQzUWzYJyfdE&exp=1677559520
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677547771&etime=1677547771&encoded=0f0100746bffdc45da393
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=_x4Zq7WTCeAmW-yAp3aOAg&uid=&expp=1677564808
 #EXTINF: -1tvg-ID group-title = "KIDS" tvg-logo = "https://images.useetv.com/logo_horee_small.png", HOREE
 https://cdn09jtedge.indihometv.com/dass/130/horee_dash/manifest_wuseetv.mpd
@@ -110,6 +111,7 @@ https://cdn09jtedge.indihometv.com/dass/130/horee_dash/manifest_wuseetv.mpd
 https://cdn09jtedge.indihometv.com/atemedvr/1677547130/0/NICKJR_AT/NICKJR_AT.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677547771&etime=1677547771&encoded=0f0100746bffdc45da393
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=cjZP20wpZU4u01vuVbduQg&uid=&expp=1677564930
 #EXTINF: -1tvg-ID group-title = "KIDS" tvg-logo = "https://images.useetv.com/logo_dreamworks_ver1.png", DREAMWORKS
 https://cdn09jtedge.indihometv.com/dass/133/dreamworks_dash/manifest_wuseetv.mpd
@@ -183,6 +185,7 @@ https://cdnbpp1.indihometv.com/joss/194/spotv21080/chunklist_w21447810_b1244100_
 https://cdnbpp1.indihometv.com/joss/133/fightsport/chunklist_w179598123_b1244100_sleng.m3u8?enc=12MGMqzFQvBKxZF28_IiVg&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxMWEyNGU2ZC1hMmE0LTI3N2UxLTE1MjdiNDY2NGZiYyIsImVtYWlsIjoiYXN1c2Ryb2lkZXJzQGdtYWlsLmNvbSIsImxvZ2luU3RhdHVzIjp0cnVlLCJzdWJzY3JpYmVyX2lkIjoiMjMyMTcwMiIsImZ1bGxuYW1lIjoiRWtvIFNhcHV0cmEiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4TURNdU1UWTBMakUzTlM0eUxUWXpSa1EwUmpnMFFqUkZOVFk9IiwiaWQiOjc5OTcwNiwiZXhwIjoxNjc4MTUxNTE5LCJpYXQiOjE2Nzc1NDY3MTksImlzcyI6IlVzZWVUVkdPIn0.MlBUNHDKjt79mVzsYJiyHPiwZsg954x5NgdddsRUCDcK3HkZ4uZ8ggI6OWxLhGpJbDKIC4LJ3vG3eioVdur03yHoVdx8SIH8suHYUM7Z2hI_TR07BJU2_uP5VwijahvSqlqWhWNZWRMUo-lCPdMHxr-q7Vn4rvX3nHiU54BqdL6Sui65p-gdrtblKEsm1l_RYv-HenJyWOOf9wSQyVZksGslQ4pkbjlYhl9ZHz2buymGGKjKF7jsqhLzsFzT-cCDrkzdEt6c3CzkK1vxHoiPaDn5N_D9QdzGsU6HHKJf4nYOKvbAOyXqiFIN7hUsV5OhzpM5rTrm3AJOENvJoAw33vVaQJmrPKRoe3xu2azOkdoJ8um02FH3Kr4qLcOovzIUbEEBaigxIy39aiSzvuL17jt1zQualsq4lBhWeHoAo8CXJrCdtAYY0GK1o59DNo_TOquFBunXcpcFBJDVuA1Dd1oaOPMl0QZxPKLCkw88W-kC4NEsjq3JrJUB-gP3r1MN_gT0wH4tYR9aADXRYnduczqt9iHfKE1zF1TbVqSJv1nUIXsIcXg4xfy4Y64m3uRj-lVxntw8b56Z7Sz59kx1hI61MdcfgSMBAPv7ufw7dsTOY7VmuRkRwua7ldSfUhnVDuqD_yK4lsxqC7CltMSs4iKF9MMX_m9GQzUWzYJyfdE&exp=1677563780
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677547771&etime=1677547771&encoded=0f0100746bffdc45da393
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=eB0prXQXhWfrhACT45wHvg&uid=&expp=1677565060
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=ePJkfTyhiuyEcdDkrZD_Wg&uid=&expp=1677565857
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=1BMuqsJMOK3EiCKxG_xlcA&uid=&expp=1677566051
@@ -192,6 +195,7 @@ https://cdnbpp1.indihometv.com/joss/133/fightsport/chunklist_w179598123_b1244100
 https://cdn09jtedge.indihometv.com/dass/133/useesport/manifest_wuseetv.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677547771&etime=1677547771&encoded=0f0100746bffdc45da393
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=2nOHMziEdVPo1vkH64-RpA&uid=&expp=1677565214
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=9Zw2nwjv7hJJAO1IACmwnw&uid=&expp=1677565979
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=DDTzlLTwQ1YmoWjxJmaYrw&uid=&expp=1677566099
@@ -199,23 +203,28 @@ https://cdn09jtedge.indihometv.com/dass/133/useesport/manifest_wuseetv.mpd
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=yvYBn9bN9bsBNy1e5h0xRg&uid=&expp=1677566205
 #EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "https://images.useetv.com/logo_useesports2_ver1.png", USEESPORTS 2
 https://cdn09jtedge.indihometv.com/dass/133/useesports2/manifest_wuseetv.mpd
+https://cdn12jtedge.indihometv.com/dass/133/useesports2/manifest_wuseetv.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677547771&etime=1677547771&encoded=0f0100746bffdc45da393
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=2GGLh26sl6BfcKa8lin99w&uid=&expp=1677565279
 #EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "https://images.useetv.com/logo_bein1_ver1.png", BEIN SPORTS 1
 https://cdn09jtedge.indihometv.com/dass/133/beib1_dash/manifest_wuseetv.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677547771&etime=1677547771&encoded=0f0100746bffdc45da393
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=qCxC8XLkJscFMOCxsZm9oA&uid=&expp=1677565345
 #EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "https://images.useetv.com/logo_bein2_ver1.png", BEIN SPORTS 3
 https://cdn09jtedge.indihometv.com/dass/133/beib2_dash/manifest_wuseetv.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677547771&etime=1677547771&encoded=0f0100746bffdc45da393
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=ZpFNnZkYe8eAwOAK27GI4Q&uid=&expp=1677565478
 #EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "https://images.useetv.com/logo_nba_ver1.png", NBA TV
 https://cdn09jtedge.indihometv.com/dass/133/nba_dash/manifest_wuseetv.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?dvr?stime=1677547771&etime=1677547771&encoded=0f0100746bffdc45da393
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=7AH1gNmiNlowSYovdqc43w&uid=&expp=1677565531
 #EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "https://images.useetv.com/logo_horizonsport_ver1.png", HORIZON SPORTS
 https://cdn09jtedge.indihometv.com/dass/133/horizonsport_dash/manifest_wuseetv.mpd
@@ -227,3 +236,5 @@ https://cdn09jtedge.indihometv.com/dass/133/horizonsport_dash/manifest_wuseetv.m
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/
+
+====
