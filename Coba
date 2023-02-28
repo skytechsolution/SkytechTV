@@ -184,11 +184,19 @@ https://cdnbpp1.indihometv.com/joss/133/fightsport/chunklist_w179598123_b1244100
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=eB0prXQXhWfrhACT45wHvg&uid=&expp=1677565060
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=ePJkfTyhiuyEcdDkrZD_Wg&uid=&expp=1677565857
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=1BMuqsJMOK3EiCKxG_xlcA&uid=&expp=1677566051
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=VOdTL8jWxPgjPepz4JdU8w&uid=&expp=1677566122
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=7GSet14nNDYKOjRBUwbSxA&uid=&expp=1677566187
 #EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "https://images.useetv.com/logo_useesport_ver1.png", USEESPORTS
 https://cdn09jtedge.indihometv.com/dass/133/useesport/manifest_wuseetv.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=2nOHMziEdVPo1vkH64-RpA&uid=&expp=1677565214
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=9Zw2nwjv7hJJAO1IACmwnw&uid=&expp=1677565979
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=DDTzlLTwQ1YmoWjxJmaYrw&uid=&expp=1677566099
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=atgop7mq_duYKQ0hNWMvqg&uid=&expp=1677566166
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?encp=yvYBn9bN9bsBNy1e5h0xRg&uid=&expp=1677566205
 #EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "https://images.useetv.com/logo_useesports2_ver1.png", USEESPORTS 2
 https://cdn09jtedge.indihometv.com/dass/133/useesports2/manifest_wuseetv.mpd
 
