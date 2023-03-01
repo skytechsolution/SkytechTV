@@ -1,8 +1,2 @@
 #EXTINF: -1tvg-ID group-title = "LIVE" tvg-logo = "https://asset.kompas.com/crops/H45ZagjJtleQyKgLPohHOIcdb3I=/157x0:1117x640/750x500/data/photo/2019/10/24/5db13235453f4.jpeg", AFF U20 - 1
-https://hls3.04lv.com/live/L13784350.m3u8?txSecret=381b1e5e3e129ccaf8e9a24378b07b85&txTime=6400723B
-
-#EXTINF: -1tvg-ID group-title = "LIVE" tvg-logo = "https://asset.kompas.com/crops/H45ZagjJtleQyKgLPohHOIcdb3I=/157x0:1117x640/750x500/data/photo/2019/10/24/5db13235453f4.jpeg", AFF U20 - 2
-https://hls3.04lv.com/live/L13785970-1677671826.ts?txspiseq=107975746347934806744
-
-#EXTINF: -1tvg-ID group-title = "LIVE" tvg-logo = "https://asset.kompas.com/crops/H45ZagjJtleQyKgLPohHOIcdb3I=/157x0:1117x640/750x500/data/photo/2019/10/24/5db13235453f4.jpeg", AFF U20 - 3
 https://hls3.04lv.com/live/L13785970.m3u8?txSecret=344aa67c696b1cded5ae075d24cd803c&txTime=64008B10&_s=stream
