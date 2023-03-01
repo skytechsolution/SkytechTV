@@ -1,12 +1,2 @@
 #EXTINF: -1tvg-ID group-title = "LIVE" tvg-logo = "https://asset.kompas.com/crops/H45ZagjJtleQyKgLPohHOIcdb3I=/157x0:1117x640/750x500/data/photo/2019/10/24/5db13235453f4.jpeg", AFF U20
-http://
-
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?txSecret=13bc05af424367a99dd312c119a290ba&txTime=64007477
-#EXTINF: -1tvg-ID group-title = "LIVE" tvg-logo = "", AFF U20
-https://play.sykedaww.top/live/101-401266624-30f01719f228c15dbc0f00e25c53a08e.m3u8
-
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?txspiseq=10605898027718281308
-#EXTINF: -1tvg-ID group-title = "LIVE" tvg-logo = "", AFF U20
-https://play.sykedaww.top/live/101-401266624-30f01719f228c15dbc0f00e25c53a08e-1677665867.ts
+https://hls3.04lv.com/live/L13784350.m3u8?txSecret=381b1e5e3e129ccaf8e9a24378b07b85&txTime=6400723B
