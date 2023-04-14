@@ -1,7 +1,8 @@
-#EXTINF: -1tvg-ID group-title = "LIVE" tvg-logo = "https://asset.kompas.com/crops/H45ZagjJtleQyKgLPohHOIcdb3I=/157x0:1117x640/750x500/data/photo/2019/10/24/5db13235453f4.jpeg", AFC U20 - 1
-https://hls3.04lv.com/live/L13785970.m3u8?txSecret=344aa67c696b1cded5ae075d24cd803c&txTime=64008B10&_s=stream
+#EXTINF: -1tvg-ID group-title = "LIVE" tvg-logo = ", LIVE STREAMING
+
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?o1=2962765606&o2=2962765606&o3=2962765606&o4=2962765606&o5=2962765606&oa=2962765606
 #EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "", SCTV
 https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
+
