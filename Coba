@@ -6,3 +6,7 @@ https://rcti-linier.rctiplus.id/hdntl=exp=1681518186~acl=%2F*~data=hdntl~hmac=0e
 #EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "", SCTV
 https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?nimblesessionid=9747273&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDI6Mjc6MjAgUE0maGFzaF92YWx1ZT1Lc0tBUTA0QTEyb3VJemxqRFFsSlVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTA3NTU4OTh8MTAzLjE2MC41Ni43MA==
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "", TRANS7
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/trans72_all/skrz1j8exe/trans72_576p/chunks.m3u8
