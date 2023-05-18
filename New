@@ -113,11 +113,11 @@ http://210.210.155.35/session/e82ab200-f555-11ed-8527-c81f66f89318/dr9445/h/h37/
 http://210.210.155.35/session/737d9ef0-f559-11ed-85c4-c81f66f89318/dr9445/h/h37/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg", HITS MOVIES
-http://210.210.155.35/session/2decec7c-f556-11ed-8527-c81f66f89318/dr9445/h/h38/01.m3u8
 http://210.210.155.35/session/2decec7c-f556-11ed-8527-c81f66f89318/dr9445/h/h38/02.m3u8
 http://210.210.155.35/session/a1b60d3e-f559-11ed-85c4-c81f66f89318/dr9445/h/h38/02.m3u8
+http://210.210.155.35/session/c2149854-f55c-11ed-85c4-c81f66f89318/dr9445/h/h38/01.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/channels?watch#play_tv-2-39-view", ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg", ROCK ENTERTAINMENT
 http://210.210.155.35/session/b8129cdc-f559-11ed-85c4-c81f66f89318/dr9445/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
 http://210.210.155.35/session/2723f5d4-f55b-11ed-85c4-c81f66f89318/dr9445/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
 
