@@ -1,6 +1,8 @@
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV
 http://210.210.155.37/session/e50bc510-f536-11ed-96dc-b82a72d63267/uq2663/h/h06/01.m3u8
+http://210.210.155.37/session/2c765b68-f555-11ed-9111-c81f66f89318/uq2663/h/h06/01.m3u8
+http://210.210.155.37/session/2c765b68-f555-11ed-9111-c81f66f89318/uq2663/h/h06/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFs6k31/SCTV.png" tvg-id="SCTV.id" tvg-country="ID" tvg-language="Indonesian" group-title="TV NASIONAL", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
@@ -98,7 +100,23 @@ http://210.210.155.37/session/3e4cb50c-f53d-11ed-8d9f-b82a72d63267/uq2663/h/h91/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS
 http://210.210.155.35/session/a350a72e-f53d-11ed-910f-b82a72d63267/dr9445/h/h02/01.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", KIDS
+http://210.210.155.35/session/f224061e-f53f-11ed-b1bb-b82a72d63267/x6bnqe/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", HITS
+http://210.210.155.35/session/e82ab200-f555-11ed-8527-c81f66f89318/dr9445/h/h37/01.m3u8
+http://210.210.155.35/session/e82ab200-f555-11ed-8527-c81f66f89318/dr9445/h/h37/02.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg", HITS MOVIES
+http://210.210.155.35/session/2decec7c-f556-11ed-8527-c81f66f89318/dr9445/h/h38/01.m3u8
+http://210.210.155.35/session/2decec7c-f556-11ed-8527-c81f66f89318/dr9445/h/h38/02.m3u8
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
