@@ -4,6 +4,6 @@
 TV NASIONAL
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?o1=2674997080&o2=2674999000&o3=2674999000&o4=2674997000&oa=2674997000
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "", RTV
-https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?auth_key=1684410699-7aee231aefb2a2991328a0c21f24ecc2-0-56797b77b1c2759823ba7aa6e80274b7
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "", RCTI
+https://1d-rcti.rctiplus.id/rcti-sdi-avc1_450000=4-mp4a_96000=1.m3u8
