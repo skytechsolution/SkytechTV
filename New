@@ -8,14 +8,14 @@ http://210.210.155.35/session/089b1ecc-f537-11ed-8573-b82a72d63267/dr9445/h/h10/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg", ANTV
 http://210.210.155.35/session/1dc21c6a-f537-11ed-a8df-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg", TV ONE
+http://210.210.155.35/session/d9f467fc-f538-11ed-8e5d-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg", METRO TV
+http://210.210.155.35/session/9c9885f8-f54e-11ed-b135-c81f66f89318/uq2663/h/h12/01.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
-
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
-
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg", KOMPAS TV
+http://210.210.155.35/session/1e18a704-f539-11ed-8e5d-b82a72d63267/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
 
