@@ -99,24 +99,60 @@ http://210.210.155.37/session/3e4cb50c-f53d-11ed-8d9f-b82a72d63267/uq2663/h/h91/
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS
 http://210.210.155.35/session/a350a72e-f53d-11ed-910f-b82a72d63267/dr9445/h/h02/01.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
+http://210.210.155.35/session/2dbe0fee-f559-11ed-85c4-c81f66f89318/dr9445/h/h02/01.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
+http://210.210.155.35/session/fea9ab44-f55a-11ed-85c4-c81f66f89318/dr9445/h/h02/01.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", KIDS
 http://210.210.155.35/session/f224061e-f53f-11ed-b1bb-b82a72d63267/x6bnqe/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
+http://210.210.155.35/session/b0067a38-f543-11ed-96dc-b82a72d63267/x6bnqe/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
+http://210.210.155.35/session/11d6cb98-f55b-11ed-8428-c81f66f89318/x6bnqe/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", HITS
 http://210.210.155.35/session/e82ab200-f555-11ed-8527-c81f66f89318/dr9445/h/h37/01.m3u8
 http://210.210.155.35/session/e82ab200-f555-11ed-8527-c81f66f89318/dr9445/h/h37/02.m3u8
+http://210.210.155.35/session/737d9ef0-f559-11ed-85c4-c81f66f89318/dr9445/h/h37/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg", HITS MOVIES
 http://210.210.155.35/session/2decec7c-f556-11ed-8527-c81f66f89318/dr9445/h/h38/01.m3u8
 http://210.210.155.35/session/2decec7c-f556-11ed-8527-c81f66f89318/dr9445/h/h38/02.m3u8
+http://210.210.155.35/session/a1b60d3e-f559-11ed-85c4-c81f66f89318/dr9445/h/h38/02.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/channels?watch#play_tv-2-39-view", ROCK ENTERTAINMENT
+http://210.210.155.35/session/b8129cdc-f559-11ed-85c4-c81f66f89318/dr9445/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
+http://210.210.155.35/session/2723f5d4-f55b-11ed-85c4-c81f66f89318/dr9445/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg", ROCK ACTION
+http://210.210.155.35/session/ed4a454e-f559-11ed-85c4-c81f66f89318/dr9445/h/h15/02.m3u8
+http://210.210.155.35/session/391d35b6-f55b-11ed-85c4-c81f66f89318/dr9445/h/h15/02.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg", KIX
+http://210.210.155.35/session/0c847614-f55a-11ed-85c4-c81f66f89318/dr9445/h/h07/02.m3u8
+http://210.210.155.35/session/48d4debe-f55b-11ed-85c4-c81f66f89318/dr9445/h/h07/02.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg", K+
+http://210.210.155.35/session/fa538b66-f544-11ed-b1c0-b82a72d63267/uq2663/h/h08/02.m3u8
+http://210.210.155.35/session/6c7a4da4-f55b-11ed-9ae8-c81f66f89318/uq2663/h/h08/02.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg", TVN
+http://210.210.155.35/session/af69318a-f55a-11ed-85c4-c81f66f89318/dr9445/h/h20/02.m3u8
+http://210.210.155.35/session/7f50b558-f55b-11ed-85c4-c81f66f89318/dr9445/h/h20/02.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg", TVN MOVIES
+http://210.210.155.35/session/e0210d52-f55a-11ed-85c4-c81f66f89318/dr9445/h/h21/02.m3u8
+http://210.210.155.35/session/90535c3e-f55b-11ed-85c4-c81f66f89318/dr9445/h/h21/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
+
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
+
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
+
+
