@@ -2,33 +2,18 @@
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", RCTI1
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", RCTI2
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/M8ttCDK/mnc.png", MNC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?auth_key=1684433645-417608e341fdecec7d65dd0b2fbfcc39-0-d9e70e76385a58dadbfb5523d46c5576
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", RCTI3
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?auth_key=1684433645-417608e341fdecec7d65dd0b2fbfcc39-0-53375051fc530aff053ccfc1f1e798aa
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", RCTI4
-https://1d-rcti.rctiplus.id/rcti-sdi-avc1_450000=4-mp4a_96000=1.m3u8
-
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://1d-rcti.rctiplus.id/rcti-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1684433645-417608e341fdecec7d65dd0b2fbfcc39-0-53375051fc530aff053ccfc1f1e798aa
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", RCTI5
-https://1d-rcti.rctiplus.id/rcti-sdi-avc1_450000=4-mp4a_96000=1.m3u8
-
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://1d-rcti.rctiplus.id/rcti-sdi-avc1_450000=4-mp4a_96000=1-begin=2643455040400000-dur=80000000-seq=33043189.ts?auth_key=1684433645-417608e341fdecec7d65dd0b2fbfcc39-0-c4926e2617de43117e6ef033b490d986
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", RCTI6
-https://1d-rcti.rctiplus.id/rcti-sdi-avc1_450000=4-mp4a_96000=1.m3u8
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/n7m5vWP/gtv.png", GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV
 http://210.210.155.37/session/e50bc510-f536-11ed-96dc-b82a72d63267/uq2663/h/h06/01.m3u8
@@ -145,8 +130,6 @@ http://210.210.155.37/session/1a5604fa-f53d-11ed-a3a6-b82a72d63267/qwr9ew/s/s39/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg", WION
 http://210.210.155.37/session/3e4cb50c-f53d-11ed-8d9f-b82a72d63267/uq2663/h/h91/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://static-s.aa-cdn.net/img/ios/1071029807/375f19a7a6d41961ed9f819d74ed4827?v=1", TAYO TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
@@ -193,18 +176,6 @@ http://210.210.155.35/session/7f50b558-f55b-11ed-85c4-c81f66f89318/dr9445/h/h20/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg", TVN MOVIES
 http://210.210.155.35/session/e0210d52-f55a-11ed-85c4-c81f66f89318/dr9445/h/h21/02.m3u8
 http://210.210.155.35/session/90535c3e-f55b-11ed-85c4-c81f66f89318/dr9445/h/h21/02.m3u8
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
-
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
-
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
-
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
-
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", 
 
