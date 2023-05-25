@@ -3,5 +3,11 @@
 
 TV NASIONAL
 
-#EXTINF:-1 group-title="INFO" tvg-logo="", INFO
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV
+https://raw.githubusercontent.com/skytechsolution/SkytechTV/main/Info.mp4
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg", SCTV
+https://raw.githubusercontent.com/skytechsolution/SkytechTV/main/Info.mp4
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
 https://raw.githubusercontent.com/skytechsolution/SkytechTV/main/Info.mp4
