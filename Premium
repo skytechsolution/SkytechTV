@@ -10,13 +10,13 @@ http://210.210.155.37/session/2c765b68-f555-11ed-9111-c81f66f89318/uq2663/h/h06/
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg", SCTV
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
