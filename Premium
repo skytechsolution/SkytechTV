@@ -3,14 +3,16 @@
 
 TV NASIONAL
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV 1
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV
+https://beetv.my.id/x/oxygen-nettv-hd-gojokkk.m3u8
 http://210.210.155.37/session/e50bc510-f536-11ed-96dc-b82a72d63267/uq2663/h/h06/01.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg", SCTV 1
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg", SCTV
+https://beetv.my.id/x/oxygen-sctv-gojokkk.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR 1
-http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
+http://cdrs.linknetott.aspirapps.net/channelgroup3/cg331production/ch8/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0414_221130_1115
+
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png", RCTI
@@ -25,15 +27,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/n7m5vWP/gtv.png", GTV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV 2
-http://210.210.155.37/session/2c765b68-f555-11ed-9111-c81f66f89318/uq2663/h/h06/01.m3u8
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg", SCTV 2
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR 2
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -54,13 +47,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/dk3tYJq/antv.png", ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV 3
-http://210.210.155.37/session/2c765b68-f555-11ed-9111-c81f66f89318/uq2663/h/h06/02.m3u8
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR 3
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -407,6 +393,29 @@ http://210.210.155.35/dr9445/h/h16/02.m3u8
 http://210.210.155.35/session/ed4a454e-f559-11ed-85c4-c81f66f89318/dr9445/h/h15/02.m3u8
 http://210.210.155.35/session/391d35b6-f55b-11ed-85c4-c81f66f89318/dr9445/h/h15/02.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png", GALAXY HD
+https://beetv.my.id/x/usee-galaxy-gojokkk.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png", GALAXY PREMIUM
+https://beetv.my.id/x/usee-galaxypremium-gojokkk.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png", CINEMAX
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png", HBO FAMILY
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png", HBO HITS
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png", HBO SIGNATURE
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="", 
+
 
 NEWS
 
@@ -499,9 +508,3 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg", CGTN DOCUMENTARY
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-
-INFO
-
-#EXTINF:-1 group-title="INFO" tvg-logo="https://raw.githubusercontent.com/skytechsolution/SkytechTV/main/Logo%20Lnds.jpg?token=GHSAT0AAAAAACCZPQEY344GYPVUQ3VQIPGOZDQO2QA", INFO
-https://raw.githubusercontent.com/skytechsolution/SkytechTV/main/Info.mp4?token=GHSAT0AAAAAACCZPQEYXMJ2UAFZKLXBYDOKZDQPKBQ
