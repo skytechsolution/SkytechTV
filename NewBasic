@@ -3,18 +3,8 @@
 
 LOCAL
 
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "http://www.dens.tv/images/channel-logo/13.jpg", NET
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV
-http://210.210.155.37/session/e50bc510-f536-11ed-96dc-b82a72d63267/uq2663/h/h06/01.m3u8
-http://210.210.155.37/session/2c765b68-f555-11ed-9111-c81f66f89318/uq2663/h/h06/01.m3u8
-http://210.210.155.37/session/2c765b68-f555-11ed-9111-c81f66f89318/uq2663/h/h06/02.m3u8
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg", SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
@@ -30,6 +20,11 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1370838605_b744100_sl
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/11.jpg", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1897297998_b744100_sleng.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w689251035_b744100_sleng.m3u8
+
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "http://www.dens.tv/images/channel-logo/13.jpg", NET
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -81,8 +76,15 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1973352103_b
 #EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/6g3z79S/inews.png", iNEWS
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg", DAAI TV
-http://210.210.155.37/session/6240dd74-f53a-11ed-b729-b82a72d63267/qwr9ew/s/s13/02.m3u8
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "http://www.dens.tv/images/channel-logo/80.jpg", BTV
+https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/GH0nWdK/daiitv.png", DAAI TV
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg", RODJA TV
 http://210.210.155.35/session/880c3d64-f53a-11ed-b729-b82a72d63267/qwr9ew/s/s14/02.m3u8
@@ -90,11 +92,6 @@ http://210.210.155.35/qwr9ew/s/s14/index.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg", JAKTV
 http://210.210.155.35/session/c17729f4-f550-11ed-a120-c81f66f89318/x6bnqe/s/s13/S4/mnf.m3u8
-
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "http://www.dens.tv/images/channel-logo/80.jpg", BTV
-https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg", ELSHINTA TV
 http://210.210.155.35/session/f0a3a128-f53a-11ed-b729-b82a72d63267/qwr9ew/s/s10/01.m3u8
@@ -114,9 +111,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s38/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg", LIFESTYLE
 http://op-group1-swiftservesd-1.dens.tv/s/s65/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg", DENS PLAY
-http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
 
 
 INTERNATIONAL
@@ -215,3 +209,6 @@ http://210.210.155.35/session/7f50b558-f55b-11ed-85c4-c81f66f89318/dr9445/h/h20/
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg", TVN MOVIES
 http://210.210.155.35/session/e0210d52-f55a-11ed-85c4-c81f66f89318/dr9445/h/h21/02.m3u8
 http://210.210.155.35/session/90535c3e-f55b-11ed-85c4-c81f66f89318/dr9445/h/h21/02.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/123.jpg", W SPORT
+http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
