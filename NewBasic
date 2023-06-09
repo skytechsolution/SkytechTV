@@ -3,9 +3,9 @@
 
 LOCAL
 
-#EXTINF:0 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "http://www.dens.tv/images/channel-logo/13.jpg", NET
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET TV
