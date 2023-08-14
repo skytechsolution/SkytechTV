@@ -4,9 +4,7 @@
 TV NASIONAL
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg", SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1691990593~acl=/hls-p/ingest_204_*/*~hmac=641d943accc16e9e0f19cd8f7cb20bbef8716cae38798e41194ee35ab0e8242a/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
