@@ -4,14 +4,10 @@
 LOCAL
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg", SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/12.jpg", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w116145026_b744100_sleng.m3u8
@@ -53,11 +49,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1141414551_b384
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1973352103_b384000_sleng.m3u8
 
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/6g3z79S/inews.png", iNEWS
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
@@ -93,25 +84,25 @@ https://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8
 INTERNATIONAL
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg", AL QURAN AL KAREEM
-http://210.210.155.37/session/74bdaff8-f53b-11ed-b729-b82a72d63267/qwr9ew/s/s28/01.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s28/01.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg", SAUDI ARABIA
-http://210.210.155.37/session/a42a453a-f53b-11ed-b729-b82a72d63267/qwr9ew/s/s27/01.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s27/01.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg", AL JAZEERA
 https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg", AL JAZEERA2
-http://210.210.155.37/session/142c4888-f53c-11ed-b729-b82a72d63267/qwr9ew/s/s16/01.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s16/01.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/16.jpg", CGTN DOCUMENTARY
-http://210.210.155.37/session/3d9eec20-f53c-11ed-b729-b82a72d63267/qwr9ew/s/s20/01.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s20/01.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg", NHK WORLD
 http://210.210.155.35/session/58b31216-f53c-11ed-b1c0-b82a72d63267/uq2663/h/h23/01.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/81.jpg", DW NEWS
-http://210.210.155.37/session/04a2c08e-f552-11ed-94ca-c81f66f89318/x6bnqe/s/s25/S4/mnf.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s25/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg", FRANCE 24
 http://210.210.155.35/session/82f8f1b2-f53c-11ed-b729-b82a72d63267/qwr9ew/s/s22/01.m3u8
@@ -129,13 +120,13 @@ http://210.210.155.35/session/b6081538-f53c-11ed-b1c0-b82a72d63267/uq2663/h/h29/
 http://210.210.155.35/session/ef6afaa2-f53c-11ed-b1c0-b82a72d63267/uq2663/h/h156/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg", FREEDOM
-http://210.210.155.37/session/0745e95c-f53d-11ed-8d9f-b82a72d63267/uq2663/h/h101/S4/mnf.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg", TBN
-http://210.210.155.37/session/1a5604fa-f53d-11ed-a3a6-b82a72d63267/qwr9ew/s/s39/01.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s39/01.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg", WION
-http://210.210.155.37/session/3e4cb50c-f53d-11ed-8d9f-b82a72d63267/uq2663/h/h91/S4/mnf.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
 
 
 PREMIUM
@@ -185,50 +176,50 @@ http://210.210.155.35/session/7f50b558-f55b-11ed-85c4-c81f66f89318/dr9445/h/h20/
 http://210.210.155.35/session/e0210d52-f55a-11ed-85c4-c81f66f89318/dr9445/h/h21/02.m3u8
 http://210.210.155.35/session/90535c3e-f55b-11ed-85c4-c81f66f89318/dr9445/h/h21/02.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg", CELESTIAL MOVIES
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg", CELESTIAL MOVIES
 https://op-group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg", CCM
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg", CCM
 https://op-group2-swiftservesd-1.dens.tv/s/s31/01.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg", MY CINEMA ASIA
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg", MY CINEMA ASIA
 https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", THRILL
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", THRILL
 https://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502961_tvchannels_v1.jpg", CINEMA WORLD
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502961_tvchannels_v1.jpg", CINEMA WORLD
 https://op-group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg", MY CINEMA
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg", MY CINEMA
 https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", MY CIBEMA EUROPE
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", MY CIBEMA EUROPE
 https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg", MY FAMILY CHANNEL
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg", MY FAMILY CHANNEL
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg", TV5 MONDE STYLE
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg", TV5 MONDE STYLE
 https://op-group2-swiftservehd-1.dens.tv/h/h121/02.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1696996802_tvchannels_v1.jpg", CREMA TV
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1696996802_tvchannels_v1.jpg", CREMA TV
 https://op-group1-swiftservehd-1.dens.tv/h/h228/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1696996801_tvchannels_v1.jpg", DANCE TV
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1696996801_tvchannels_v1.jpg", DANCE TV
 https://op-group1-swiftservesd-1.dens.tv/s/s21/03.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg", FIGHTS SPORT
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg", FIGHTS SPORT
 https://op-group2-swiftservehd-1.dens.tv/h/h05/01.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg", MOTOR+ VISION
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg", MOTOR+ VISION
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", MOTOR RACING
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", MOTOR RACING
 https://op-group1-swiftservehd-1.dens.tv/h/h25/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", HORIZON SPORTS
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", HORIZON SPORTS
 https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/123.jpg", W SPORT
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/123.jpg", W SPORT
 http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
