@@ -15,15 +15,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w116145026_b744100_sle
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.dens.tv/images/channel-logo/11.jpg", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1897297998_b744100_sleng.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.ibb.co/jG6DNXz/RCTV.png", RCTI
-https://iptv.skuy.co.id:2083/RCTI/mpegts?token=3Dz3TaUf9K-Zu1
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.ibb.co/M8ttCDK/mnc.png", MNC
-https://iptv.skuy.co.id:2083/MNC/mpegts?token=3Dz3TaUf9K-Zu1
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.ibb.co/n7m5vWP/gtv.png", GTV
-https://iptv.skuy.co.id:2083/GTV/mpegts?token=3Dz3TaUf9K-Zu1
-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501626_tvchannels_v1.jpg", NET TV
 https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
