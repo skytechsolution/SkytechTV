@@ -258,7 +258,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #EXTINF:-1 group-title="RELIGI" tvg-logo="", Iqra TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="RELIGI", AHSAN TV
+#EXTINF:-1 tvg-logo="" group-title="RELIGI", AHSAN TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="muslimtv.id" tvg-logo="https://iptv.urfan.id/logo/muslimtv.png", Muslim TV
