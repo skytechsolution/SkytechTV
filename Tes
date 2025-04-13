@@ -1,100 +1,128 @@
 #EXTM3U
 
-Update : 13 April 2025, 12:15
+Update : 13 April 2025, 15:30
 
 TV NASIONAL
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="SCTV.id" tvg-logo="", SCTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="SCTV.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png", SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Indosiar.id" tvg-logo="", Indosiar
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", Indosiar
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Net.id" tvg-logo="", MDTV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="RajawaliTV.id" tvg-logo="", RTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="RajawaliTV.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be5cd0b15903/bb1a5397f68d42899630a14334c359aa.jpg", RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TransTV.id" tvg-logo="", Trans TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TransTV.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg", Trans TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="", Trans 7
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg", Trans 7
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="ANTV.id" tvg-logo="", ANTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="ANTV.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68585a0014401863437adf82243/08882f0d830a45f9800649ee6536e6e8.png", ANTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TVRINasional.id" tvg-logo="", TVRI Nasional
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Net.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg", MDTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TVRINasional.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be6135dc5905/a6a05d485df64ea3839392bb1da7eeeb.png", TVRI Nasional
 #EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="", TVRI Sumatera Selatan
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be6135dc5905/a6a05d485df64ea3839392bb1da7eeeb.png", TVRI Sumatera Selatan
 #EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TVRIWorld.id" tvg-logo="", TVRI World
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TVRIWorld.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be6135dc5905/a6a05d485df64ea3839392bb1da7eeeb.png", TVRI World
 #EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="tvOne.id" tvg-logo="", tvOne
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="tvOne.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68585a001440186343e1a562244/509958d1f3ef43f59d1ce189ed9a5296.png", tvOne
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="MetroTV.id" tvg-logo="", Metro TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="MetroTV.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be4783ff58da/dd0e5afbeb2b4a7e802b4fbacce14991.png", Metro TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="KompasTV.id" tvg-logo="", Kompas TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="KompasTV.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg", Kompas TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="CNNIndonesia.id" tvg-logo="", CNN Indonesia
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="CNNIndonesia.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg", CNN Indonesia
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="CNBCIndonesia.id" tvg-logo="", CNBC Indonesia
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="CNBCIndonesia.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be4b82c758dc/2ab30598ad294ca7b817b9ed1202c11f.jpg", CNBC Indonesia
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="daaitv.id" tvg-logo="", DAAITV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="daaitv.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg", DAAITV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="MentariTV.id" tvg-logo="", Mentari TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="MentariTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mentari-tv-id.png", Mentari TV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="magnachannel.id" tvg-logo="", Magna Channel
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="magnachannel.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg", Magna Channel
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="metroglobenetwork.id" tvg-logo="", Metro Globe Network
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="metroglobenetwork.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro-globe-network-id.png", Metro Globe Network
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="BeritaSatu.id" tvg-logo="", BTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="BeritaSatu.id" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be56c7d858fd/e1c8e9c35f844b84bffed06395734acc.png", BTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="IDTV.id" tvg-logo="", BeritaSatu
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="IDTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg", BeritaSatu
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="", PAL TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pal-tv-id.png", PAL TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744543813/ei/5Uv7Z73kEYGmvcAPgu2kyAQ/ip/103.156.14.146/id/_OxaMkqFYaA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcMTzGxHE13Eb2ydTShMZUgI-FPvq0_LvZTxoR3qiQ73sNnFRo_7MwrsQ8jLxKSBni-uOA/spc/_S3wKh_Xouhqi4mdbijFXOLOAgLo3dvuzzt4yHIKpCwhunWuGQNJFp5OF6kUjVHg8w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgN7N4ig4wfnJP59jTam5Bz5XB7JUVW73g8-0rM-QG0zQCIANTlklDBYpu16c9s4PQ6pzbqeqDMK3WTNfnen0N1dpj/file/index.m3u
+
+
+PREMIUM
+
+#EXTINF:-1 group-title="PREMIUM" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg", Aniplus
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg", Kidz
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
+
+#EXTINF:-1 group-title="PREMIUM" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg", Rock Entertainment
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 group-title="PREMIUM" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", Rock Action
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h15/02.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg", KIX
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h07/02.m3u8
