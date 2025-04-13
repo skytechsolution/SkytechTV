@@ -98,34 +98,3 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="", PAL TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744543813/ei/5Uv7Z73kEYGmvcAPgu2kyAQ/ip/103.156.14.146/id/_OxaMkqFYaA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcMTzGxHE13Eb2ydTShMZUgI-FPvq0_LvZTxoR3qiQ73sNnFRo_7MwrsQ8jLxKSBni-uOA/spc/_S3wKh_Xouhqi4mdbijFXOLOAgLo3dvuzzt4yHIKpCwhunWuGQNJFp5OF6kUjVHg8w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgN7N4ig4wfnJP59jTam5Bz5XB7JUVW73g8-0rM-QG0zQCIANTlklDBYpu16c9s4PQ6pzbqeqDMK3WTNfnen0N1dpj/file/index.m3u
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="", xxx
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-xxx
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="", xxx
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-xxx
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="", xxx
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-xxx
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="", xxx
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-xxx
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="", xxx
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-xxx
