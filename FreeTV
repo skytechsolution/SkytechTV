@@ -1,6 +1,6 @@
 #EXTM3U
 
-Update : 14 April 2025, 15.00
+Update : 14 April 2025, 15.10
 
 
 TV NASIONAL
@@ -114,9 +114,6 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="LOCAL", Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ArekTV.id" tvg-logo="https://i.imgur.com/Bw8fLiD.png" group-title="LOCAL", Arek TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 
 PREMIUM
