@@ -1,6 +1,6 @@
 #EXTM3U
 
-Update : 14 April 2025, 11:15
+Update : 14 April 2025, 11:30
 
 
 TV NASIONAL
@@ -197,7 +197,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s34/02.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg", TV5 Monde Style
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s31/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg", Crema TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
