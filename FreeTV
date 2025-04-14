@@ -1,6 +1,6 @@
 #EXTM3U
 
-Update : 14 April 2025, 14:50
+Update : 14 April 2025, 15.00
 
 
 TV NASIONAL
@@ -105,6 +105,18 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-id="IDTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg", BeritaSatu
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="LOCAL", Magna Jogja
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="LOCAL", Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="LOCAL", Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArekTV.id" tvg-logo="https://i.imgur.com/Bw8fLiD.png" group-title="LOCAL", Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 
 PREMIUM
@@ -328,7 +340,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s14/02.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="RELIGION", Al-Iman TV
 https://tv.aliman.id/aliman/live.m3u8
 
-#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="RELIGION", Alwafa Tarim TV
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-wafa-tarim-id.png" group-title="RELIGION", Alwafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="RELIGION", MQTV
